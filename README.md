@@ -2,6 +2,6 @@ bootstrap-datepicker
 ====================
 
 This is a GitHub version of
-[http://www.eyecon.ro/bootstrap-datepicker/](Datepicker for Bootstrap).
+[Datepicker for Bootstrap](http://www.eyecon.ro/bootstrap-datepicker/).
 
 All credits go to the original author.
